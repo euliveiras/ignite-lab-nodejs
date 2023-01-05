@@ -19,6 +19,7 @@
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false,
     "strictPropertyInitialization": false,
+    "resolveJsonModule": true,
     "paths": {
       "@application/*": ["./src/application/*"],
       "@test/*": ["./test/*"],
